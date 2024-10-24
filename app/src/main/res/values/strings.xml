@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConversorDeMonedas</string>
+
+    <!-- Lista de divisas para el Spinner -->
+    <string-array name="divisas_array">
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
